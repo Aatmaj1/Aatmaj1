@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aatmaj-janardanan/](https://www.linkedin.com/in/aatmaj-janardanan/)
 
-- ⚡ Adventure **To reach the top of Mount Everest**
+- ⚡ Adventure **to reach the top of Mount Everest**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
