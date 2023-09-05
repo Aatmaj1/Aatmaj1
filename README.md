@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aatmaj1?tab=repositories](https://github.com/Aatmaj1?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@aatmajjanardanan](https://medium.com/@aatmajjanardanan)
+- 📝 I regularly write articles on [Medium](https://medium.com/@aatmajjanardanan) & [rotational.io](https://rotational.io/blog/)
 
 - 💬 Ask me about **data science, data engineering, and data-intensive applications**
 
-- 📫 How to reach me **ajanarda@syr.edu**
+- 📫 How to reach me **ajanarda@syr.edu** & **aatmajjanardanan@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aatmaj-janardanan/](https://www.linkedin.com/in/aatmaj-janardanan/)
 
