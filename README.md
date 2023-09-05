@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aatmaj Janardanan</h1>
 <h3 align="center">I have an overall 4 years of experience as a Data Scientist working on complex projects across Airport, Bank, Insurance and Retail analyticshas an overall 4 years of experience as a Data Scientist working on complex projects across Airport, Bank, Insurance and Retail analytics</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0Afut98rZsUz-dZzs2v3TA&ust=1693963732049000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNC97eWokoEDFQAAAAAdAAAAABAZ">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently pursuing my Master's in [Applied Machine Learning](https://ischool.syr.edu/academics/applied-data-science-masters-degree/)
 
