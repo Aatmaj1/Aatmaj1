@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aatmaj1?tab=repositories](https://github.com/Aatmaj1?tab=repositories)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@aatmajjanardanan) & [rotational.io](https://rotational.io/blog/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@aatmajjanardanan) & [rotational.io](https://rotational.io/blog/) (Open Source Contributor)
 
 - 💬 Ask me about **data science, data engineering, and data-intensive applications**
 
