@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aatmaj Janardanan</h1>
-<h5 align="center">Hello, world! I'm your friendly neighborhood Data Scientist with 4 years of experience under my belt. I've darted through the bustling airports, navigated the complex corridors of banks, unraveled the mysteries in insurance, and sprinted through retail jungles, all while juggling a tornado of data. I'm on a mission to turn numbers into narratives and bring a sprinkle of fun to the analytics party!</h5>
+<h5 align="center">Hello, world! 👋 I am a Data Science Engineer with a focus on Azure Cloud, my expertise lies in designing and optimizing ETL frameworks, with a proven record of enhancing system efficiency through innovation and strategic teamwork. Equipped with a command over Python, SQL, and PySpark, I craft data solutions that scale across cloud ecosystems. My approach blends technical acumen with strategic collaboration, transforming intricate data sets into streamlined narratives that propel business growth. Let's collaborate to forge a data-driven path to innovation and market leadership. 🚀
+</h5>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently pursuing my Master's in [Applied Data Science](https://ischool.syr.edu/academics/applied-data-science-masters-degree/) from Syracuse University
@@ -12,7 +13,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@aatmajjanardanan) & [rotational.io](https://rotational.io/blog/) (Open Source Contributor)
 
-- 💬 Ask me about **data science, data engineering, and data-intensive applications**
+- 💬 Ask me about **Big Data, Data engineering, and Data-Intensive Applications**
 
 - 📫 How to reach me **ajanarda@syr.edu** & **aatmajjanardanan@gmail.com**
 
