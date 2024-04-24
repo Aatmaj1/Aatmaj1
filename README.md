@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently pursuing my Master's in [Applied Data Science](https://ischool.syr.edu/academics/applied-data-science-masters-degree/) from Syracuse University
 
-- 🌱 I’m currently learning **DataBricks & Advance Spark**
+- 🌱 I’m currently learning **DataBricks & Advance Spark**. [PySpark Project](https://github.com/Aatmaj1/PySpark-Project-Lending-Club-Data)
 
 - 👯 I derive satisfaction from engaging in data-centric projects and making valuable contributions to open source initiatives [PyEnsign](https://rotational.io)
 
